@@ -1,0 +1,8 @@
+# Dependências
+node_modules/
+
+# Arquivo de segredos (SENHAS!)
+.env
+
+# Pasta de compilação do TypeScript
+dist/

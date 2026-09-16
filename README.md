@@ -16,6 +16,7 @@ Este projeto é uma API REST desenvolvida em Node.js com TypeScript, projetada p
 * **Prisma**: ORM (Object-Relational Mapper) para comunicação com o banco de dados.
 * **MySQL**: Banco de dados relacional.
 * **ES Modules (ESM)**: Sistema de módulos moderno do Node.js.
+* **Jest**: Framework de testes, com cobertura da camada de Services (regras de negócio).
 
 ---
 
